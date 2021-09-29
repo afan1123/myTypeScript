@@ -1,0 +1,21 @@
+{
+  "name": "mytypescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afan1123/myTypeScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afan1123/myTypeScript/issues"
+  },
+  "homepage": "https://github.com/afan1123/myTypeScript#readme"
+}
